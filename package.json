@@ -1,0 +1,26 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "IoT part of project Moni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanKameniev/MoniIoT.git"
+  },
+  "author": "Roman Kameniev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanKameniev/MoniIoT/issues"
+  },
+  "homepage": "https://github.com/RomanKameniev/MoniIoT#readme",
+  "dependencies": {
+    "johnny-five": "^1.4.0",
+    "oled-js": "^5.1.2",
+    "png-to-lcd": "^1.1.0",
+    "sharp": "^0.25.2",
+    "temporal": "^0.7.1"
+  }
+}
